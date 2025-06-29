@@ -1,5 +1,5 @@
-# 💻 $BAPE - Baby Pepe Token Landing Page
-A modern and visually dynamic HTML landing page designed for a meme coin project named "$BAPE - Baby Pepe". This static webpage highlights tokenomics, community links (e.g., Telegram, Twitter), and branding for the character "Baby Pepe"—a humorous spin-off from the popular Pepe meme. The layout features animated elements, smooth transitions, and responsive design principles, ideal for engaging crypto communities and early adopters.
+# 💻 $CATOSHI - Catoshi Token
+A modern and visually dynamic HTML landing page designed for a meme coin project named "$CATOSHI". This static webpage highlights tokenomics, community links (e.g., Telegram, Twitter), and branding for the character "CATOSHI". The layout features animated elements, smooth transitions, and responsive design principles, ideal for engaging crypto communities and early adopters.
 
 # Key Features:
 
